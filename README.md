@@ -7,8 +7,10 @@ La definición de dron en la RAE es: Aeronave no tripulada. Al fin y al cabo es 
 El dron que vamos a usar es el Tello, es un cuadricóptero (tiene 4 hélices), con un motor y un protector de hélice en cada una (4 en total), tiene una cámara y al lado de ella un Led RGB el cual indica el estado del dron según el color emitido, 2 antenas para la comunicación, un sistema de posicionamiento visual (es un sensor de ultrasonidos para detectar la distancia del suelo a la que está posicionada la aeronave), batería para la fuente de energía, un puerto micro USB y no menos importante el botón de encendido y apagado del dron justo en la parte opuesta de este. Aquí tenemos varias imágenes de un dron que usaremos y otra a modo de explicacíon de lo anterior:
 
 ## NORMATIVA EUROPEA DE VUELO
+La normativa europea de vuelo de drones clasifica los drones en 7 clases, cuanto más grande sea el número de la clase, más grande, y por lo tanto, más peligroso será el dron. La normativa obliga a todos los drones poner una pegatina en la que se indique la clase en la que está y la matrícula del dron. El Tello está en la clase 0, esta clase se caracteriza por tener un peso de menos de 250g y una velocidad máxima de 19 m/s.
 
 ## ¿CÓMO TE DEBES CONECTAR AL DRON PARA PODER CONTROLARLO?
+El Tello usa vía Wifi para la conexión con el maestro que lo controle, ya sea el teléfono para controlarlo como si fuese un mando o un programa para que haga los movimientos que queramos. Te tienes que conectar a la Wifi del Tello, saldrá como "TELLO-XXXXXX", en las "X" saldrá la matrícula del dron, para diferenciarlos de otros. Nosotros usaremos la programación, lo programaremos con DroneBlocks.
 
 ## PROGRAMACIÓN CON DRONEBLOCKS
 
