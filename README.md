@@ -18,6 +18,7 @@ La normativa europea de vuelo de drones clasifica los drones en 7 clases, cuanto
 
 ## ¿CÓMO TE DEBES CONECTAR AL DRON PARA PODER CONTROLARLO?
 El Tello usa vía Wifi para la conexión con el maestro que lo controle, ya sea el teléfono para controlarlo como si fuese un mando o un programa para que haga los movimientos que queramos. Te tienes que conectar a la Wifi del Tello, saldrá como "TELLO-XXXXXX", en las "X" saldrá la matrícula del dron, para diferenciarlos de otros. Nosotros usaremos la programación, lo programaremos con DroneBlocks.
+![](https://github.com/Alexus8650/A-volar/blob/89f7c2e2f9008c0997d33a663d7223cb326388d5/DB.PNG)
 
 ## PROGRAMACIÓN CON DRONEBLOCKS
 DroneBlocks es la plataforma con la que vamos a programar el dron. Es una programación muy sencilla de bloques en la cual nos encontramos con 8 apartados a la izquierda, cuando sean pulsados se abrirá una interfaz de los bloques correspondientes a la categoria seleccionada.
@@ -32,7 +33,7 @@ DroneBlocks es la plataforma con la que vamos a programar el dron. Es una progra
 
 Una vez elegida la categoria se selenciona el bloque preferido y se arrastra a la zona de programación.
 Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off, varias curvas con Navigation y Land:
-![](https://github.com/Alexus8650/A-volar/blob/89f7c2e2f9008c0997d33a663d7223cb326388d5/DB.PNG)
+![]()
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Voy a decir 3 maneras de usar este aparato volador:
