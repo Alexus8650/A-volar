@@ -17,6 +17,7 @@ La normativa europea de vuelo de drones clasifica los drones en 7 clases, cuanto
 
 ## ¿CÓMO TE DEBES CONECTAR AL DRON PARA PODER CONTROLARLO?
 El Tello usa vía Wifi para la conexión con el maestro que lo controle, ya sea el teléfono para controlarlo como si fuese un mando o un programa para que haga los movimientos que queramos. Te tienes que conectar a la Wifi del Tello, saldrá como "TELLO-XXXXXX", en las "X" saldrá la matrícula del dron, para diferenciarlos de otros. Nosotros usaremos la programación, lo programaremos con DroneBlocks.
+![](https://github.com/Alexus8650/A-volar/blob/89f7c2e2f9008c0997d33a663d7223cb326388d5/DB.PNG)
 
 ## PROGRAMACIÓN CON DRONEBLOCKS
 
