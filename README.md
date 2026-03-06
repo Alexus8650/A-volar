@@ -37,6 +37,7 @@ Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Estos son 3 usos de la drónica:
+
 · Polinización Artificial: Este es un vídeo de un agricultor de pistacho de Castlla la Mancha.
 
 [![](https://img.youtube.com/vi/Fjnfyj0WBAg/0.jpg)](https://www.youtube.com/watch?v=Fjnfyj0WBAg)
