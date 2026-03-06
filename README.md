@@ -33,7 +33,7 @@ DroneBlocks es la plataforma con la que vamos a programar el dron. Es una progra
 
 Una vez elegida la categoria se selenciona el bloque preferido y se arrastra a la zona de programación.
 Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off, varias curvas con Navigation y Land:
-![]()
+![](https://github.com/Alexus8650/A-volar/blob/06196b8a79ed01029124f3401d608ea057f7cbfa/DBI.PNG)
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Voy a decir 3 maneras de usar este aparato volador:
