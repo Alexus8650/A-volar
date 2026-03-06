@@ -36,7 +36,15 @@ Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off
 ![](https://github.com/Alexus8650/A-volar/blob/06196b8a79ed01029124f3401d608ea057f7cbfa/DBI.PNG)
 
 ## APLICACIONES DE LA DRÓNICA
-Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Voy a decir 3 maneras de usar este aparato volador:
-· Polinización Artificial: [![](https://img.youtube.com/vi/Fjnfyj0WBAg/0.jpg)](https://www.youtube.com/watch?v=Fjnfyj0WBAg)
-· Educación:
-· Videos publicitarios
+Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Estos son 3 usos de la drónica:
+· Polinización Artificial: Este es un vídeo de un agricultor de pistacho de Castlla la Mancha.
+[![](https://img.youtube.com/vi/Fjnfyj0WBAg/0.jpg)](https://www.youtube.com/watch?v=Fjnfyj0WBAg)
+
+· Educación: Esto es una entrevista con el organizador de un proyecto llamado Droneduca.
+[![](https://img.youtube.com/vi/ZFZ4A1qoFP0/0.jpg)](https://www.youtube.com/watch?v=ZFZ4A1qoFP0)
+
+· Videos publicitarios: Este es un vídeo publicitario de un restaurante.
+[![](https://img.youtube.com/vi/tIiZBrDTrKQ/0.jpg)](https://www.youtube.com/watch?v=tIiZBrDTrKQ)
+
+
+
