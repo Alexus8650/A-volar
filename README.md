@@ -1,7 +1,9 @@
 # A-volar
 ## DESCRIPCIÓN DEL PROYECTO
 En este proyecto el objetivo clave es dar la vuelta en forma de infinito a dos columnas con un dron que hay afuera de la clase de robótica. Somos 14 en clase, y hemos hecho 4 grupos, asique 2 de 3 y 2 de 4. En cada grupo tenemos que hacer el infinito de una manera distinta, y cada participante de cada grupo debe empezar y acabar el infinito con una orientación diferente. Este es el recorrido de mi grupo y mi orientación de inicio y final:
-![](https://github.com/Alexus8650/McQueen-Car/blob/449106b011d6db5dcdca662805b654c351acc3bb/Diagrama%20en%20blanco%20(9).png)
+![](https://github.com/Alexus8650/A-volar/blob/b41d666dd22c47ef444ec1ade85a98302b956dcc/gta.PNG)
+
+La flecha negra es el recorrido, la flecha roja es mi orientación, el circulo cian es el punto de salida y final y los cuadrados verdes son las columnas.
 
 ## DESCRIPCIÓN DEL DRON
 La definición de dron en la RAE es: Aeronave no tripulada. Al fin y al cabo es un robot que vuela no tripulado (no transporta a personas con él) que se controla o remotamente o con un programa pre-instalado en él, este al ser un robot tiene sensores y actuadores para relacionarse con el medio y todo lo de más que pueda tener un robot normal lo puede tener un dron.
