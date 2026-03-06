@@ -41,9 +41,11 @@ Este proyecto es solo una minuscula demostración de lo que se puede hacer con l
 
 [![](https://img.youtube.com/vi/Fjnfyj0WBAg/0.jpg)](https://www.youtube.com/watch?v=Fjnfyj0WBAg)
 
+
 · Educación: Esto es una entrevista con el organizador de un proyecto llamado Droneduca.
 
 [![](https://img.youtube.com/vi/ZFZ4A1qoFP0/0.jpg)](https://www.youtube.com/watch?v=ZFZ4A1qoFP0)
+
 
 · Videos publicitarios: Este es un vídeo publicitario de un restaurante.
 
