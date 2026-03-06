@@ -20,6 +20,18 @@ La normativa europea de vuelo de drones clasifica los drones en 7 clases, cuanto
 El Tello usa vía Wifi para la conexión con el maestro que lo controle, ya sea el teléfono para controlarlo como si fuese un mando o un programa para que haga los movimientos que queramos. Te tienes que conectar a la Wifi del Tello, saldrá como "TELLO-XXXXXX", en las "X" saldrá la matrícula del dron, para diferenciarlos de otros. Nosotros usaremos la programación, lo programaremos con DroneBlocks.
 
 ## PROGRAMACIÓN CON DRONEBLOCKS
+DroneBlocks es la plataforma con la que vamos a programar el dron. Es una programación muy sencilla de bloques en la cual nos encontramos con 8 apartados a la izquierda, cuando sean pulsados se abrirá una interfaz de los bloques correspondientes a la categoria seleccionada.
+1. Take off: Tenemos el bloque de "Take off" que es el bloque de inicio que tiene que tener todo programa, que hace que se inicie el dron.
+2. Navigation: Tenemos todo lo que es el movimiento del dron, arriba, abajo, derecha izquierda, delante y atrás, junto a las curvas.
+3. Flip: Aquí tenemos lo que son los "Flips", dar una vuelta completa de campana, o como se podría llamar tambien, un backflip, frontflip o lateralflip.
+4. Loops: Los bucles se estacionan aquí, simplemente repite lo que le pongas las veces que le digas, una parte esencial para la programación.
+5. Logic: Lógica, los "if" y los "when" se localizan aquí.
+6. Math: Aquí tenemos las sumas, rectas, multiplicaciones y divisiones para el programa, normalmente usadas con los "if" y "when".
+7. Variables: Las variables, la creación y asignacion de números a variables están aquí.
+8. Land: Tenemos el último bloque de todo programa, aterrizar.
+
+Una vez elegida la categoria se selenciona el bloque preferido y se arrastra a la zona de programación.
+Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off, varias curvas con Navigation y Land:
 ![](https://github.com/Alexus8650/A-volar/blob/89f7c2e2f9008c0997d33a663d7223cb326388d5/DB.PNG)
 
 ## APLICACIONES DE LA DRÓNICA
