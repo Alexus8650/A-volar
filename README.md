@@ -37,6 +37,6 @@ Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Voy a decir 3 maneras de usar este aparato volador:
-· Polinización Artificial:
+· Polinización Artificial: [![](https://img.youtube.com/vi/Fjnfyj0WBAg/0.jpg)](https://www.youtube.com/watch?v=Fjnfyj0WBAg)
 · Educación:
 · Videos publicitarios
