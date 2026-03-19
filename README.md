@@ -53,6 +53,11 @@ Con esto pudimos de ducir que el eje x es delante (positivo) y atrás (negativo)
 
 ![](https://github.com/Alexus8650/A-volar/blob/0057c98d12428dc20ac836cc33206adfa0eef443/sincon.PNG)
 
+Usando esto solo necesitabamos saber como funcionaban las curvas. Este bloque funciona poniendo la posición en la que quieres que finalice el movimiento y una posición intermedia por la que pasará, dependiendo de esta posición intermedia hará una curva más abierta, más cerrada y hacia la izquierda o a la derecha, y la posición final modificará lo grande o pequeña que sea la curva.
+
+Solo nos falta decidir el circuito que vamos a seguir, es el siguiente:
+
+
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Estos son 3 usos de la drónica:
