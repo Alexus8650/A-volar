@@ -62,11 +62,8 @@ Solo nos falta decidir el circuito que vamos a seguir, es el siguiente:
 Las líneas rojas es el inicio y fin de una curva, y los puntos morado lila son los puntos medios escogidos.
 
 Por último hay que decir que cada vez que se cree una curva nueva va a tomar las coordenadas de donde esté en el momento, es decir, donde está es (0,0,0) y no el punto de despegue. Sabiendo todo esto solo es practicar, calcular y ensayo error. Al final pudimos terminarlo, pero no está comprobado entero, ya que no nos dío tiempo en clase, están hechas individualmente.
-
 #### Programa
-##### Programa
-###### Programa
-Las coordenadas elegidas fueron: (0,0) a (75,120) pasando por (60,90), a (-150,0) pasando por (-75,60), a (75,-120) pasando por (15,-30), a (75,-120) pasando por (60,-90), a (-150,0) pasando por (-75,-60), a (75,90) pasando por (15,30). Haciendo un total de 6 curvas. Antes de cada curva tuvimos que poner un "hover", que significa mantenerse en vuelo (flotar en el aire), durante 5 segundos para asegurarnos que no pase de bloque antes de acabar el anterior.
+Las coordenadas elegidas fueron: (0,0) a (75,120) pasando por (60,90), a (-150,0) pasando por (-75,60), a (75,-120) pasando por (15,-30), a (75,-120) pasando por (60,-90), a (-150,0) pasando por (-75,-60), a (75,90) pasando por (15,30). Haciendo un total de 6 curvas. Antes de cada curva tuvimos que poner un "hover", que significa mantenerse en vuelo (flotar en el aire), durante 5 segundos para asegurarnos que no pase de bloque antes de acabar el anterior. Recordando lo primero dicho: "cada grupo debe empezar y acabar el infinito con una orientación diferente", el programa base está hecho para que se empieze mirando hacia el frente (las escaleras), sinembargo yo empiezo mirando a la derecha, entonces para adaptar el programa a mi situación solo tengo que poner un giro al principio y al final
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Estos son 3 usos de la drónica:
