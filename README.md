@@ -43,7 +43,11 @@ Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off
 ## Resultado
 El objetivo principal es conseguir el reto, asique usamos las medidas de las baldosas (60 cm) y el bloque de movimiento hacia alante/derecha/izquierda/atrás para hacer el recorrido de la forma más "primitiva" posible, rodearlo con líneas rectas.
 
-![](https://github.com/Alexus8650/A-volar/blob/06196b8a79ed01029124f3401d608ea057f7cbfa/DBI.PNG)
+![](https://github.com/Alexus8650/A-volar/blob/216373b9e5632618ab15c773dbaff7aeb2888735/Privitiva.PNG)
+
+Después, una vez conseguido el reto, intentamos usar curvas para definir mejor el infinito, ya que el símbolo del infinito son líneas curvas, no rectas. Para ello tuvimos que averiguar donde estaban los ejes (x, y , z). La altura fue la más sencilla (nos la dijo nuestro profesor), era la z. Para la x y la y tuvimos que hacer un programa en el cual se moviese el dron más en un eje que en el otro, lo hizimos con el bloque de "moverse a", en este no tocamos la z, pusimos la x=100 y la y=20, y las medidas en centrímetros (cm). En conclusión, el dron se movió así:
+
+![](https://github.com/Alexus8650/A-volar/blob/216373b9e5632618ab15c773dbaff7aeb2888735/Privitiva.PNG)
 
 
 ## APLICACIONES DE LA DRÓNICA
