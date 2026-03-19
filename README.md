@@ -47,7 +47,11 @@ El objetivo principal es conseguir el reto, asique usamos las medidas de las bal
 
 Después, una vez conseguido el reto, intentamos usar curvas para definir mejor el infinito, ya que el símbolo del infinito son líneas curvas, no rectas. Para ello tuvimos que averiguar donde estaban los ejes (x, y , z). La altura fue la más sencilla (nos la dijo nuestro profesor), era la z. Para la x y la y tuvimos que hacer un programa en el cual se moviese el dron más en un eje que en el otro, lo hizimos con el bloque de "moverse a", en este no tocamos la z, pusimos la x=100 y la y=20, y las medidas en centrímetros (cm). En conclusión, el dron se movió así:
 
-![](https://github.com/Alexus8650/A-volar/blob/216373b9e5632618ab15c773dbaff7aeb2888735/Privitiva.PNG)
+![](https://github.com/Alexus8650/A-volar/blob/0057c98d12428dc20ac836cc33206adfa0eef443/sin.PNG)
+
+Con esto pudimos de ducir que el eje x es delante (positivo) y atrás (negativo) y que el eje y es izquierda (positivo) e izquierda (negativo):
+
+![](https://github.com/Alexus8650/A-volar/blob/0057c98d12428dc20ac836cc33206adfa0eef443/sincon.PNG)
 
 
 ## APLICACIONES DE LA DRÓNICA
