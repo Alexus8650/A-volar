@@ -57,7 +57,16 @@ Usando esto solo necesitabamos saber como funcionaban las curvas. Este bloque fu
 
 Solo nos falta decidir el circuito que vamos a seguir, es el siguiente:
 
+![](https://github.com/Alexus8650/A-volar/blob/07daed3c502c2a647cd79596abbf3005f47c107a/Proyects.PNG)
 
+Las líneas rojas es el inicio y fin de una curva, y los puntos morado lila son los puntos medios escogidos.
+
+Por último hay que decir que cada vez que se cree una curva nueva va a tomar las coordenadas de donde esté en el momento, es decir, donde está es (0,0,0) y no el punto de despegue. Sabiendo todo esto solo es practicar, calcular y ensayo error. Al final pudimos terminarlo, pero no está comprobado entero, ya que no nos dío tiempo en clase, están hechas individualmente.
+
+#### Programa
+##### Programa
+###### Programa
+Las coordenadas elegidas fueron: (0,0) a (75,120) pasando por (60,90), a (-150,0) pasando por (-75,60), a (75,-120) pasando por (15,-30), a (75,-120) pasando por (60,-90), a (-150,0) pasando por (-75,-60), a (75,90) pasando por (15,30). Haciendo un total de 6 curvas. Antes de cada curva tuvimos que poner un "hover", que significa mantenerse en vuelo (flotar en el aire), durante 5 segundos para asegurarnos que no pase de bloque antes de acabar el anterior.
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Estos son 3 usos de la drónica:
