@@ -40,7 +40,11 @@ Aquí tenemos una imagen de la interfaz que tiene un programa hecho con Take off
 
 ![](https://github.com/Alexus8650/A-volar/blob/06196b8a79ed01029124f3401d608ea057f7cbfa/DBI.PNG)
 
-## rESULTADO
+## Resultado
+El objetivo principal es conseguir el reto, asique usamos las medidas de las baldosas (60 cm) y el bloque de movimiento hacia alante/derecha/izquierda/atrás para hacer el recorrido de la forma más "primitiva" posible, rodearlo con líneas rectas.
+
+![](https://github.com/Alexus8650/A-volar/blob/06196b8a79ed01029124f3401d608ea057f7cbfa/DBI.PNG)
+
 
 ## APLICACIONES DE LA DRÓNICA
 Este proyecto es solo una minuscula demostración de lo que se puede hacer con los drones, son robots, entonces sirven para ayudar a la humanidad. Estos son 3 usos de la drónica:
